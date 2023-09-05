@@ -1,4 +1,4 @@
-# PurpleSky
+# Weather App
 
 
 ![Image](/public/purplesky_screenshot)
