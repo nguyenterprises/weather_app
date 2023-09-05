@@ -1,0 +1,27 @@
+.qa-container {
+    padding: 1em;
+    margin: 1em 0em;
+
+}
+.qa-open {
+    display: block;
+}
+.qa-closed {
+    display: none;
+}
+
+#about-page {
+    /* background: hsla(232, 73%, 65%, 1); */
+    /* background: linear-gradient(90deg, hsla(232, 73%, 65%, 1) 0%, hsla(279, 33%, 48%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(232, 73%, 65%, 1) 0%, hsla(279, 33%, 48%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(232, 73%, 65%, 1) 0%, hsla(279, 33%, 48%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#6274e7", endColorstr="#8752a3", GradientType=1 );
+    color: rgb(196, 246, 192);
+    color: rgb(216, 249, 214);
+    color: rgb(223, 246, 221); */
+    color: white
+}
+
+    
+    
+    

@@ -1,0 +1,1 @@
+export const defaultCoords = { latitude: 40.4539249, longitude: -74.476545, city: "North Brunswick", state: "New Jersey", timeZone: "America/New_York" }
